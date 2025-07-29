@@ -75,7 +75,7 @@ element:class {
 }
 ```
 
-### FSL (flufi scripting language)
+### [FSL (flufi scripting language)](https://github.com/Flufi-Boi/fsl_schtuff)
 ```rs
 val = 0;
 fn check() val < 5;

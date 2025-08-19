@@ -3,15 +3,18 @@ im a thing that does stuff sometimes maybe
 
 ### Languages i know
 [![Lang GRAHHH](https://skillicons.dev/icons?i=js,nodejs,ts,python,lua,cs)](https://skillicons.dev)<br>
-[![Thingy Langs maybe](https://skillicons.dev/icons?i=html,css,md,regex,react)](https://skillicons.dev)
-> last one is supposed to be [preact](https://preactjs.com/) but skill icons doesnt have it sooo
+[![Thingy Langs maybe](https://skillicons.dev/icons?i=html,css,md,regex)](https://skillicons.dev)  ![preact](https://go-skill-icons.vercel.app/api/icons?i=preact)
 
 ### Stuff i use (in order to most used to least)
-[![Stufff grahhh](https://skillicons.dev/icons?i=vscode,discord,github,figma,blender,powershell,pycharm)](https://skillicons.dev)
-> i want to switch away from powershell and i rarely use pycharm 
+[![Stufff grahhh](https://go-skill-icons.vercel.app/api/icons?i=vscode,discord,github,figma,blender,bash)](https://skillicons.dev)<br>
+[![Goob](https://skillicons.dev/icons?i=vite,npm,cloudflare)](https://skillicons.dev)<br>
+ive also used<br>
+[![Bleh](https://skillicons.dev/icons?i=unity,visualstudio)](https://skillicons.dev)<br>
 
-### OSes ive used (i primarily use windows because i have to)
-[![Stufff grahhh](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
+### OSes ive used
+[![Stufff grahhh](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev) <br>
+i currently use<br>
+[![Mint fr](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
 
 Ive made a few languages
 
